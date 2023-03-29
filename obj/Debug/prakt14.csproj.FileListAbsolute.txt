@@ -1,0 +1,15 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\bin\Debug\prakt14.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\bin\Debug\prakt14.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\bin\Debug\prakt14.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\obj\Debug\prakt14.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\obj\Debug\prakt14.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\obj\Debug\prakt14.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt14-1-2osonvi\prakt14\obj\Debug\prakt14.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\bin\Debug\prakt14.exe.config
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\bin\Debug\prakt14.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\bin\Debug\prakt14.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\obj\Debug\prakt14.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\obj\Debug\prakt14.csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\obj\Debug\prakt14.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\obj\Debug\prakt14.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\xiy-main\obj\Debug\prakt14.pdb
